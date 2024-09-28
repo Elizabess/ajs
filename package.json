@@ -1,0 +1,22 @@
+{
+  "name": "@elizabess/ajs",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Elizabess/ajs.git"
+  },
+  "keywords": [
+    "1212"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elizabess/ajs/issues"
+  },
+  "homepage": "https://github.com/Elizabess/ajs#readme",
+  "description": ""
+}
